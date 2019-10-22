@@ -7,7 +7,7 @@ public class HelloGit {
 	}
 	
 	public static void randomPrint(){
-		System.out.println("Real programmers use Emacs -Anonymous prof");
+		System.out.println("Real programmers use Emacs -Anonymous prof <3");
 	}
 	
 }
